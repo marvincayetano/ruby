@@ -1,1 +1,1 @@
-# ruby
+![Meme](docs/meme.jpg)
